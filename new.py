@@ -1,0 +1,2 @@
+print("Spectre")
+zxxzx
